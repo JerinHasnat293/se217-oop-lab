@@ -1,4 +1,5 @@
 public class Darrey {
+    
     public static void main(String[] args) {
         int data[][] = {
             {10, 20, 30},
