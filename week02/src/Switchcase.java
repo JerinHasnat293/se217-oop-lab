@@ -1,4 +1,5 @@
 public class Switchcase {
+    
     public static void main(String[] args) {
         char x = 'b';
         switch(x) {
