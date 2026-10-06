@@ -1,4 +1,5 @@
 public class Stringsplit {
+    
     public static void main(String[] args) {
         String text = "Java#Programming#Language";
         String[] parts = text.split("#");
