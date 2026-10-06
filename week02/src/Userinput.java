@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Userinput {
+    
     public static void main(String[] args) {
         Scanner inputObj = new Scanner(System.in);
         double value;
