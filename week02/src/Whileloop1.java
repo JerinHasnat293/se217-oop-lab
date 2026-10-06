@@ -1,4 +1,5 @@
 public class Whileloop1 {
+    
     public static void main(String[] args) {
         int sum = 0;
         int i = 5;
