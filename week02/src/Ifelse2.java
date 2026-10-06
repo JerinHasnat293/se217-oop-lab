@@ -1,6 +1,6 @@
 public class Ifelse2 {
     
-    public static void main(String[] args) {
+ public static void main(String[] args) {
         char ch = 'u';
         
         if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
