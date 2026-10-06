@@ -1,4 +1,5 @@
 public class Main3 {
+    
     public static void main(String[] args) {
         long a, b, c;
         a = 102422;
